@@ -1,0 +1,28 @@
+{
+  "name": "express-vue-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kostyshyn/Express-Vue-Blog.git"
+  },
+  "keywords": [
+    "express",
+    "vue",
+    "mongodb",
+    "rest",
+    "api",
+    "spa",
+    "blog"
+  ],
+  "author": "kostyshyn@ua.fm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kostyshyn/Express-Vue-Blog/issues"
+  },
+  "homepage": "https://github.com/Kostyshyn/Express-Vue-Blog#readme"
+}
