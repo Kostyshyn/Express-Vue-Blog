@@ -17,12 +17,20 @@
     "rest",
     "api",
     "spa",
-    "blog"
+    "blog",
+    "socketio"
   ],
   "author": "kostyshyn@ua.fm",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Kostyshyn/Express-Vue-Blog/issues"
   },
-  "homepage": "https://github.com/Kostyshyn/Express-Vue-Blog#readme"
+  "homepage": "https://github.com/Kostyshyn/Express-Vue-Blog#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "mongoose": "^4.11.1",
+    "morgan": "^1.8.2",
+    "nodemon": "^1.11.0",
+    "socketio": "^1.0.0"
+  }
 }
